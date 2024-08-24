@@ -6,6 +6,7 @@
     "@chainlink/env-enc": "^1.0.5",
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
     "ethers": "^5.7.2",
-    "hardhat": "^2.14.1"
+    "hardhat": "^2.14.1",
+    "typescript": "^5.5.4"
   }
 }
