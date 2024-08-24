@@ -28,7 +28,7 @@ npm -v
 1. Clone the repository
 
 ```
-git clone https://github.com/smartcontractkit/ccip-cross-chain-name-service.git
+git clone https://github.com/dannweeeee/ccip-cross-chain-name-service.git
 cd ccip-cross-chain-name-service
 ```
 
